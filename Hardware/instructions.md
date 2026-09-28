@@ -16,7 +16,7 @@ Step 2: Making support for the components
 Once all components are correctly positioned on the build plate, click Slice now in the bottom-right corner of the screen, as indicated by the red arrow in Figure 4.
 After slicing, a vertical slider will appear on the right side of the screen. Use this slider to inspect the different layers of the print. Move the handles of the slider up and down to check the components layer by layer. If a dark blue part appears in the component, it needs support. To give this support,
 there are 3 different options on the right of the screen under 'supports'. For the components that we are printing, it suffices to select 'support on build plate only'. This is shown in figure 5. 
-![Figure 5: Printer and filament settings in PrusaSlicer. The arrows indicate the support setting and the button used to export the G-code.](picture5.png)
+![Figure 5: Printer and filament settings in PrusaSlicer](picture5.png)
 
 Step 3: Setting up the printer
 Before starting the print, make sure that the correct filament is loaded into the 3D printer. On the printer's control panel, select Filament.
