@@ -2,7 +2,7 @@
 ## Step 1: Insert the threaded rods
 Start with the bottom plate of the gearbox. Insert the four threaded rods into the holes at each corner of the bottom plate, as shown in Figure 1.
 Figure 1: Bottom plate with the four threaded rods installed.
-![step1](IMG_3526.jpg)
+![step1](montage1.jpeg)
 ## Step 2: Place the gears
 Place the gears onto their corresponding shafts on the bottom plate, as shown in Figure 2. Make sure that the teeth of neighbouring gears properly engage with each other.
 Place the pillars into the rods as shown in the picture. 
