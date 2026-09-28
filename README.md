@@ -2,6 +2,7 @@
 
 This is the documentation of the project for making a gearbox. This is the documentation of OS4P Group 4. 
 
+
 ## Main features
 _The original project is based on work from Zach Meredith who used a gear box to convert a quickly spinning motor into a more slowly spinning display plate in our Leapfrog Bolt 3D printer_ 
 
