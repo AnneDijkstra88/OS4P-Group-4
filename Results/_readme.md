@@ -1,5 +1,7 @@
 # Results
-The results of .. final setup are shown in figure below
+The final setup of the gearbox is from Zach are shown in the figure below:
+
+![Figure 2: Final setup of the gearbox.](Zachgear.JPG)
 
 Below are pictures of different stages of the 3D-printing process.
 ![Final gearbox setup](IMG_3526.jpg)
