@@ -3,7 +3,9 @@ To 3D print the components for the gearbox, follow this guide.
 
 Step 1: Uploading the hardware 
 Open the program PrusaSlicer. To import a component of the Gearbox into the PrusaSlicer program, first download the file of the desired component. The components can be found in the map 'Hardware'. 
-Then, upload it to the prusasliser by clicking on the most left box icon on the top bar. See picture 1. It asks you to select a file that you want to add.
+Then, upload it to the prusasliser by clicking on the most left box icon on the top bar. See picture 1. 
+![Uploading a component to PrusaSlicer](picture1.png)
+It asks you to select a file that you want to add.
 Select the desired component and upload it in medium quality. See picture 2. It will give a schematic overview of the component on the horizontal plane. The largest part should go on top. 
 This can be done by clicking on the desired component. On the left side of the screen there are different options. Select the fourth option from above called 'place to face'. See picture 3. 
 Now you can click on the side of the component that you want to face down. 
