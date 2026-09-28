@@ -1,21 +1,18 @@
 # Open Hardware Documentation Challenge
 
+This is the documentation of the project for making a gearbox. This is the documentation of OS4P Group 4. 
 
-test
-This repository presents a small hardware project for the course Open Science for Physicists (NS-PH500M) at Utrecht University. The goal of this repository is to be a starting place for all students to find the basic documentation which they can then use the template to build up. Update it regularly and as you make choices to make it useful for the next set of students who will have to recreate your project (hopefully with better documentation). 
-
-[How to use Markdown, GitHubs formatting language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## Main features
 _The original project is based on work from Zach Meredith who used a gear box to convert a quickly spinning motor into a more slowly spinning display plate in our Leapfrog Bolt 3D printer_ 
 
-Each subfolder contains a `_readme.md` file that explains the conventions and purpose of that folder for the (future) collaborators to keep it tidy.
+Each subfolder contains a `_readme.md` file that explains the conventions and purpose of that folder.
 
-In the results section you can see the end product of his gearing system using an open box version of the gear box. This allows the different components to be viewed. 
+In the results section you can see the end product of our gearing system using an open box version of the gear box. This allows the different components to be viewed. 
 
-In hardware you can find the STL files to be printed as well as the fusion files which would allow you to tinker with the gear ratios. You can also can find an overview of the necessary steps to produce the parts and assemble the gearbox. 
+In the Instructions section you can find all the steps you need to follow to print the parts and construct the gearbox. You should follow this document step by step. 
 
-This template is adjusted to the typical needs of a hardware project made for research or education. 
+In hardware you can find the STL files to be printed as well as the fusion files which would allow you to tinker with the gear ratios. 
 
 
 ## Build instructions
@@ -35,7 +32,7 @@ _Even though platforms such as github show a list of user accounts for contribut
 ## License
 
 This project is released under CC0 1.0 Universal. 
-You can modify an reuse as you like.
+You can modify and reuse as you like.
 
 
 ### (How to cite:)
