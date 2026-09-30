@@ -41,7 +41,11 @@ Place 4 middle long bolts through the holes in the corner and place the pillars 
 ## Step 8: 
 Place the top plate on top and use the hex nuts on top of the screws in the corners.
 ![Description](foto11.jpeg)
-
-
-
+## Step 9:
+Now you can place the gearbox in the black box and attach the wheel to the gear with the appendix. 
+![Description](foto13.jpeg)
+## Step 10:
+The final setup is shown below. To make the wheel spin, one must connect the power supply to the motor via channel 1. The voltage can be set by turning the wheel on the top right. 
+To apply the voltage, one must not forget to press the off/on bottom on channel 1. Put the spinning plate close to the wheel so they touch each other. 
+![Description](finalsetup.jpeg)
 
