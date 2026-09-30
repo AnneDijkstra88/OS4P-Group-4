@@ -1,2 +1,13 @@
 # Results
-With use of a microcontroller we are able to modulate the direction of a spinning plate for the Leapfrog Bolt printer. This was enhanced by greasing the gears and using high quality prints to make sure the gears fit together well. 
+The final setup of the gearbox is from Zach are shown in the figure below:
+
+![Figure 2: Final setup of the gearbox.](Zach%20gear.JPG)
+
+Below are pictures of different stages of the 3D-printing process.
+![Final gearbox setup](IMG_3526.jpg)
+
+![Gearbox](IMG_3530.jpg)
+
+![Gearbox assembly](IMG_3531.jpg)
+
+![Final result](IMG_3532.jpg)
