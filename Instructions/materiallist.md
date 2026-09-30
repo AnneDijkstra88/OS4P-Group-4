@@ -11,6 +11,7 @@ The following materials and tools are required to assemble the setup:
 | Hex nuts | 4 |
 | Motor | 1 |  
 | Power supply | 1 |
+| Flying Wheel | 1 |
 | Spinning plate | 1 |
 | Drill | 1 |
 | tape | as much as needed |
