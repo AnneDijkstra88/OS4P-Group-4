@@ -43,9 +43,9 @@ Place the top plate on top and use the hex nuts on top of the screws in the corn
 ![Description](foto11.jpeg)
 
 ## Step 9:
-Now you can place the gearbox in the black box.
-
+Now you can place the gearbox in the black box and attach the wheel to the gear with the appendix. 
+![Description](foto13.jpeg)
 ## Step 10:
-Attach the wheel to the gear with the appendix. 
-
+The final setup is shown below. Put the spinning plate close to the wheel so they touch each other. 
+![Description](finalsetup.jpeg)
 
