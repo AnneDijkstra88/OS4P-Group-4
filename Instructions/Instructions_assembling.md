@@ -42,6 +42,10 @@ Place 4 middle long bolts through the holes in the corner and place the pillars 
 Place the top plate on top and use the hex nuts on top of the screws in the corners.
 ![Description](foto11.jpeg)
 
+## Step 9:
+Now you can place the gearbox in the black box.
 
+## Step 10:
+Attach the wheel to the gear with the appendix. 
 
 
