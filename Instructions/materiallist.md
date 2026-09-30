@@ -8,7 +8,7 @@ The following materials and tools are required to assemble the setup:
 | M3 bolts | 6 (longest you can find)|
 | M2.5 bolts | 2 |  
 | Flat metal washers | 5 |
-| Hex nuts | 
+| Hex nuts | 4 |
 | Motor | 1 |  
 | Power supply | 1 |
 | Spinning plate | 1 |
