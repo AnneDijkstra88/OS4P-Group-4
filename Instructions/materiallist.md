@@ -13,6 +13,7 @@ The following materials and tools are required to assemble the setup:
 | Power supply | 1 |
 | Spinning plate | 1 |
 | Drill | 1 |
+| tape | as much as needed |
 
 A photograph of all required materials is shown below.
 
