@@ -1,4 +1,4 @@
-Instructions for assembling the gearbox.
+## Instructions for assembling the gearbox
 
 Once you have completed the 3D printing, it is time to assemble the gearbox. Everything you need other than the components you just 3D printed is added in the list
 of materials in this folder. 
