@@ -7,7 +7,7 @@ The following materials and tools are required to assemble the setup:
 | 3D-printed parts | 11 |
 | M3 bolts | 6 (longest you can find)|
 | M2.5 bolts | 2 |  
-| Flat metal washers | 5 |
+| Flat metal washers | as much as needed |
 | Hex nuts | 4 |
 | Motor | 1 |  
 | Power supply | 1 |
